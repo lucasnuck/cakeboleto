@@ -1,0 +1,1 @@
+Um componente para gerar boletos em PDF para o framework CakePHP
